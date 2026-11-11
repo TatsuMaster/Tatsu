@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+CMakeLists.txt.user
+**/build*/
+**/cmake/
+**/out/
+src/common/version.c
+src/boot/bios/tag.asm
+src/kernel/tag.h
+builddir/
+target/
+Cargo.lock
+*.rs.bk
+*.profdata
+*.profraw
